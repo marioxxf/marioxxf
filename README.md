@@ -24,6 +24,7 @@
 - ASP.NET Core MVC;
 - API Web ASP.NET Core;
 - ColdFusion;
+- C#;
 - CSS;
 - HTML;
 - JavaScript;

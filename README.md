@@ -7,9 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-mariodesousajnr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mariodesousajnr@gmail.com)
 
 <p>
-  I am a web developer who has been studying programming for 3 years.  
-  <br/>
-  I have been very close to ASP.NET MVC (web system and API creation), JavaScript, SQL, and ColdFusion.
+  I am a web developer who has been studying programming for 3 years. I have been very close to ASP.NET MVC (web system and API creation), JavaScript, SQL, and ColdFusion.
 </p>
 
 ### About me
